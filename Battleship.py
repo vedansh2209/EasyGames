@@ -10,7 +10,7 @@ def create_board():
       board.append(["O"] * 5)
     return board
 
-##Prints Board##
+##Prints Board
 def print_board(b):
   print (" ")
   s = " "
